@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and a Friend!
 
 
-<img align="right" src="img/webdevelopment.svg" height="372px"/>
+<img align="right" src="img/webdevelopment.svg" height="300px"/>
 
 - 🎓 I'm currently studying at Westminster International University majoring in BIS
 - 🌱 I’m currently learning more about BlockChain.
