@@ -13,7 +13,18 @@
 - ⚡ Fun fact: I love to listen to [music](https://www.last.fm/user/haiderales), play piano and games.
 - 📫 My Email: HaiderAleS@gmail.com
 
-![Hyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiderAleS&show_icons=true&hide_border=false&theme=tokyonight&border_color=0c1a25)
+<br />
+
+---
+
+
+### Now Playing 🎧
+
+[![Spotify](https://novatorem-two-cyan.vercel.app/api/spotify)](https://open.spotify.com/user/haiderales)
+<br/>
+---
+
+[![Hyde's github stats](https://github-readme-stats.vercel.app/api?username=HaiderAleS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
