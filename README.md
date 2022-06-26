@@ -2,15 +2,16 @@
 
 ## I'm a Student, Developer, and a Friend!
 
-- 🎓 I'm currently studying at Westminster International University majoring in BIS 
+
+<img align="right" src="img/webdevelopment.svg" height="372px"/>
+
+- 🎓 I'm currently studying at Westminster International University majoring in BIS
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate with people.
 - 🥅 2022 Goals: Learn more about web3
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: I love to listen to [music](https://www.last.fm/user/haiderales), play piano and games.
 - 📫 My Email: HaiderAleS@gmail.com
-
-![screen-gif](https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif)
 
 ![Hyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiderAleS&show_icons=true&hide_border=false&theme=tokyonight&border_color=0c1a25)
 
