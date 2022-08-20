@@ -1,6 +1,6 @@
 # Привет, I'm Hyde
 
-## I'm a Student, Developer, and a Friend!
+## I'm a Student and a Developer!
 
 
 <img align="right" src="img/webdevelopment.svg" height="240px"/>
