@@ -3,12 +3,12 @@
 <img align="right" src="img/webdevelopment.svg" height="240px"/>
 
 - 🎓 Majored in BIS from Westminster International University.
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate with people.
+- 🌱 Currently learning more about BlockChain.
+- 👯 Looking to collaborate with people.
 - 🥅 2022 Goals: Learn more about web3
 - 💬 Ask me about any tech-related stuff.
 - ⚡ Fun fact: I love to listen to [music](https://www.last.fm/user/haiderales), play piano and games.
-- 📫 My Email: HaiderAleS@gmail.com
+- 📫 My Email: hyd.e@icloud.com
 
 <br />
 
