@@ -1,11 +1,8 @@
 # Привет, I'm Hyde
 
-## I'm a Student and a Developer!
-
-
 <img align="right" src="img/webdevelopment.svg" height="240px"/>
 
-- 🎓 I'm currently studying at Westminster International University majoring in BIS
+- 🎓 Majored in BIS from Westminster International University.
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate with people.
 - 🥅 2022 Goals: Learn more about web3
@@ -31,8 +28,8 @@
 [![website](./img/globe-light.svg)](https://00008870.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://00008870.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/hyde.as#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/hyde.as#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/hyd.e#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/hyd.e#gh-dark-mode-only)
 
 ### Languages and Tools:
 
